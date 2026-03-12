@@ -1,10 +1,13 @@
 # Project Map
 
----
-### 🛠️ Universal Components
-> * **[Universal EDP Controller](url)**: High-performance driver board for standard 30/40-pin EDP panels.
-> * **[Generic MIPI Adapter](url)**: Universal adapter board for various MIPI-DSI displays.
-> * **[Power Management Module](url)**: Compact DC-DC module optimized for portable display setups.
+## <center>Universal Components</center>
+| Component & Description |
+| :---: |
+| [通用主板 V3.0 - no spk](url) |
+| [通用 MIPI 驱动板 V1.2](url) |
+| [通用背光驱动板 - 高压版](url) |
+| [通用 Type-C 电源管理模块](url) |
+
 ---
 
 ## <center>Apple</center>
@@ -19,6 +22,7 @@
 | [iPhone 5](url) | [iPhone 6](url) | [iPhone X](url) | [iPhone 11](url) | [iPhone 12](url) | [iPhone 13](url) |
 
 ---
+
 ## <center>Samsung</center>
 ### Tablets
 | | | | | | |
