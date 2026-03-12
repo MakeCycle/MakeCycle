@@ -1,10 +1,10 @@
 # Project Map
 ---
 #### Common Modules
-* [EDP-DP Adapter](https://github.com/YourGitHubID/edp-dp-adapter) - Touch, No Speaker, No USB
+* [EDP-DPTOIPAD-V3 - Touch, No Speaker, No USB](https://github.com/YourGitHubID/edp-dp-adapter) 
 ---
 #### iPad
-* [iPad 3 LCD to Monitor](https://github.com/YourGitHubID/ipad3-lcd-to-monitor)
+* [iPad-3-LCD-to-Monitor-Conversion-Original-Touch-Supported](https://github.com/MakeCycle/iPad-3-LCD-to-Monitor-Conversion-Original-Touch-Supported)
 ---
 #### iPhone
 * iPhone 6s Plus (WIP)
