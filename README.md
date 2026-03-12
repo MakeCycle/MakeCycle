@@ -1,24 +1,14 @@
 # Project Map
 ---
-## <center>Common Modules</center>
-| Module Name & Description |
-| :---: |
-| [EDP-DP to iPad V3.0 - Touch, No Speaker, No USB](url) |
-
+#### Common Modules
+* [EDP-DP Adapter](https://github.com/YourGitHubID/edp-dp-adapter) - Touch, No Speaker, No USB
 ---
-## <center>ipad</center>
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [ipad3](iPad-3-LCD-to-Monitor-Conversion-Original-Touch-Supported-) |
-ipad4 |
---- |
---- |
---- |
---- |
-
-## <center>iphone</center>
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| --- | --- | --- | --- | --- | --- |
-
+#### iPad
+* [iPad 3 LCD to Monitor](https://github.com/YourGitHubID/ipad3-lcd-to-monitor)
 ---
+#### iPhone
+* iPhone 6s Plus (WIP)
+* iPhone 7 Plus (WIP)
+* iPhone 8 Plus (WIP)
+---
+
