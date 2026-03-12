@@ -1,15 +1,29 @@
 # Project Map
 
-### Hardware Inventory 🛠️
+## Universal Components
+* **[Universal EDP Controller](url)**: A high-performance driver board supporting standard 30-pin/40-pin EDP interfaces.
+* **[Generic MIPI Adapter](url)**: Universal adapter board for various MIPI-DSI displays, featuring signal conversion.
+* **[Power Management Module](url)**: Compact DC-DC step-down module optimized for portable display setups.
 
-| Model | Category | Status | Tech Specs |
-| :--- | :--- | :--- | :--- |
-| **iPad 3** | Driver Board | ✅ Released | [Details](https://github.com/YourName/iPad3-Driver) |
-| **iPad 4** | Touch Panel | 🚧 Beta | [Coming Soon](#) |
-| **iPod Nano** | Display Mod | 🧪 R&D | [Follow](https://github.com/YourName/iPod-Mod) |
+## Apple
+### iPad
+| | | |
+| :--- | :--- | :--- |
+| [iPad 3](url) | [iPad 4](url) | [iPad Air](url) |
+| [iPad Mini](url) | [iPad Pro](url) | [iPad 5](url) |
 
----
-### Status Legend:
-* ✅ **Released**: Fully documented & tested.
-* 🚧 **Beta**: Under active development.
-* 🧪 **R&D**: Concept phase / Researching.
+### iPhone
+| | | |
+| :--- | :--- | :--- |
+| [iPhone 5](url) | [iPhone 6](url) | [iPhone X](url) |
+
+## Samsung
+### Tablets
+| | | |
+| :--- | :--- | :--- |
+| [Tab S3](url) | [Tab S4](url) | [Tab S6](url) |
+
+### Phones
+| | | |
+| :--- | :--- | :--- |
+| [S8](url) | [S9](url) | [S10](url) |
