@@ -1,29 +1,26 @@
 # Project Map
 
-## Universal Components
-* **[Universal EDP Controller](url)**: A high-performance driver board supporting standard 30-pin/40-pin EDP interfaces.
-* **[Generic MIPI Adapter](url)**: Universal adapter board for various MIPI-DSI displays, featuring signal conversion.
-* **[Power Management Module](url)**: Compact DC-DC step-down module optimized for portable display setups.
+---
+### 🛠️ Universal Components
+> * **[Universal EDP Controller](url)**: High-performance driver board for standard 30/40-pin EDP panels.
+> * **[Generic MIPI Adapter](url)**: Universal adapter board for various MIPI-DSI displays.
+> * **[Power Management Module](url)**: Compact DC-DC module optimized for portable display setups.
+---
 
-## Apple
+## <center>Apple</center>
 ### iPad
-| | | |
-| :--- | :--- | :--- |
-| [iPad 3](url) | [iPad 4](url) | [iPad Air](url) |
-| [iPad Mini](url) | [iPad Pro](url) | [iPad 5](url) |
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [iPad 3](url) | [iPad 4](url) | [iPad Air](url) | [iPad Mini](url) | [iPad Pro](url) | [iPad 5](url) |
 
 ### iPhone
-| | | |
-| :--- | :--- | :--- |
-| [iPhone 5](url) | [iPhone 6](url) | [iPhone X](url) |
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [iPhone 5](url) | [iPhone 6](url) | [iPhone X](url) | [iPhone 11](url) | [iPhone 12](url) | [iPhone 13](url) |
 
-## Samsung
+---
+## <center>Samsung</center>
 ### Tablets
-| | | |
-| :--- | :--- | :--- |
-| [Tab S3](url) | [Tab S4](url) | [Tab S6](url) |
-
-### Phones
-| | | |
-| :--- | :--- | :--- |
-| [S8](url) | [S9](url) | [S10](url) |
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [Tab S3](url) | [Tab S4](url) | [Tab S6](url) | [Tab S7](url) | [Tab S8](url) | [Tab S9](url) |
