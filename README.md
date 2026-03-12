@@ -3,7 +3,7 @@
 ## <center>Common Modules</center>
 | Module Name & Description |
 | :---: |
-| [EDP-DP to iPad V3.0 - No Speaker, No USB](url) |
+| [EDP-DP to iPad V3.0 - Touch, No Speaker, No USB](url) |
 
 ---
 ## <center>ipad</center>
