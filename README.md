@@ -6,12 +6,12 @@
 | [EDP-DP to iPad V3.0 - No Speaker, No USB](url) |
 
 ---
-## <center>Ipad</center>
+## <center>ipad</center>
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| IPAD3 | IPAD4 | --- | --- | --- | --- |
+| ipad3 | ipad4 | --- | --- | --- | --- |
 
-## <center>Iphone</center>
+## <center>iphone</center>
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | --- | --- | --- | --- | --- | --- |
