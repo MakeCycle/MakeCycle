@@ -1,7 +1,7 @@
 # Project Map
 ---
 ## <center>Common Modules</center>
-| Component Name & Description |
+| Module Name & Description |
 | :---: |
 | [EDP-DP to iPad V3.0 - No Speaker, No USB](url) |
 
