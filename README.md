@@ -1,16 +1,15 @@
-## Hi there 👋
+# Project Map
 
-<!--
-**MakeCycle/MakeCycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hardware Inventory 🛠️
 
-Here are some ideas to get you started:
+| Model | Category | Status | Tech Specs |
+| :--- | :--- | :--- | :--- |
+| **iPad 3** | Driver Board | ✅ Released | [Details](https://github.com/YourName/iPad3-Driver) |
+| **iPad 4** | Touch Panel | 🚧 Beta | [Coming Soon](#) |
+| **iPod Nano** | Display Mod | 🧪 R&D | [Follow](https://github.com/YourName/iPod-Mod) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Status Legend:
+* ✅ **Released**: Fully documented & tested.
+* 🚧 **Beta**: Under active development.
+* 🧪 **R&D**: Concept phase / Researching.
